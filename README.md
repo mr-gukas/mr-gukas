@@ -1,5 +1,5 @@
 ### Hi there 👋
-[My CV](cv.pdf)
+[My CV](MyCV.pdf)
 <!--
 **mr-gukas/mr-gukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
